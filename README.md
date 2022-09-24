@@ -1,2 +1,2 @@
 # Data_Structure
-with C language
+practice with C language
